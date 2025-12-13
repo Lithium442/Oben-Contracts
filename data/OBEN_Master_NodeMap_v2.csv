@@ -1,0 +1,21 @@
+NodeID,Layer,Sector,Continent,AWSRegion_Planned,Stage,Role,Hemisphere,LatitudeBand,PoleRole,Rails,Notes
+CORE-ANT,L0-CORE,ANT,Antarctica (logical),eu-central-2 (Zurich),CORE,GenesisCore,CENTER,Pole-Center,Alpha-Seed,,Logical Antarctica core; no direct chain edges; axis / seed of lattice.
+CORE-SP,L0-CORE,OC,South Pole / Oceania,ap-southeast-2 (Sydney),CORE,PoleCore,S,Pole-South,Omega-Terminal,,Logical South Pole core; no direct chain edges; closes global dipole.
+FS-NA,L1-FORMATION,NA,North America,us-east-1 (N. Virginia),FORMATION,FORMATIONNode,N,Mid-North,,LITHIUM,Inner shell formation node for North America.
+XS-NA,L2-EXPANSION,NA,North America,us-east-1 (N. Virginia),EXPANSION,EXPANSIONNode,N,Outer-North,,ORION,Outer shell expansion node for North America.
+CT-NA,L3-CROWN,NA,North America,us-east-1 (N. Virginia),CROWN,CROWNNode,EQ,Equator,Neutral-0,LIBRA,Crown / user gateway node (equatorial projection of North America).
+FS-EU,L1-FORMATION,EU,Europe,eu-central-2 (Zurich),FORMATION,FORMATIONNode,N,Mid-North,,LIBRA,Inner shell formation node for Europe.
+XS-EU,L2-EXPANSION,EU,Europe,eu-central-2 (Zurich),EXPANSION,EXPANSIONNode,N,Outer-North,,LITHIUM,Outer shell expansion node for Europe.
+CT-EU,L3-CROWN,EU,Europe,eu-central-2 (Zurich),CROWN,CROWNNode,EQ,Equator,Neutral-0,ORION,Crown / user gateway node (equatorial projection of Europe).
+FS-AS,L1-FORMATION,AS,Asia,ap-south-1 (Mumbai),FORMATION,FORMATIONNode,N,Mid-North,,ORION,Inner shell formation node for Asia.
+XS-AS,L2-EXPANSION,AS,Asia,ap-south-1 (Mumbai),EXPANSION,EXPANSIONNode,N,Outer-North,,LIBRA,Outer shell expansion node for Asia.
+CT-AS,L3-CROWN,AS,Asia,ap-south-1 (Mumbai),CROWN,CROWNNode,EQ,Equator,Neutral-0,LITHIUM,Crown / user gateway node (equatorial projection of Asia).
+FS-OC,L1-FORMATION,OC,Oceania,ap-southeast-2 (Sydney),FORMATION,FORMATIONNode,S,Mid-South,,LITHIUM,Inner shell formation node for Oceania.
+XS-OC,L2-EXPANSION,OC,Oceania,ap-southeast-2 (Sydney),EXPANSION,EXPANSIONNode,S,Outer-South,,ORION,Outer shell expansion node for Oceania.
+CT-OC,L3-CROWN,OC,Oceania,ap-southeast-2 (Sydney),CROWN,CROWNNode,EQ,Equator,Neutral-0,LIBRA,Crown / user gateway node (equatorial projection of Oceania).
+FS-AF,L1-FORMATION,AF,Africa,af-south-1 (Cape Town),FORMATION,FORMATIONNode,S,Mid-South,,LIBRA,Inner shell formation node for Africa.
+XS-AF,L2-EXPANSION,AF,Africa,af-south-1 (Cape Town),EXPANSION,EXPANSIONNode,S,Outer-South,,LITHIUM,Outer shell expansion node for Africa.
+CT-AF,L3-CROWN,AF,Africa,af-south-1 (Cape Town),CROWN,CROWNNode,EQ,Equator,Neutral-0,ORION,Crown / user gateway node (equatorial projection of Africa).
+FS-SA,L1-FORMATION,SA,South America,sa-east-1 (São Paulo),FORMATION,FORMATIONNode,S,Mid-South,,ORION,Inner shell formation node for South America.
+XS-SA,L2-EXPANSION,SA,South America,sa-east-1 (São Paulo),EXPANSION,EXPANSIONNode,S,Outer-South,,LIBRA,Outer shell expansion node for South America.
+CT-SA,L3-CROWN,SA,South America,sa-east-1 (São Paulo),CROWN,CROWNNode,EQ,Equator,Neutral-0,LITHIUM,Crown / user gateway node (equatorial projection of South America).
