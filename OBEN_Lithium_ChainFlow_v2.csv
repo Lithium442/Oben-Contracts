@@ -1,7 +1,0 @@
-Chain,Step,FromNode,ToNode,FromContinent,ToContinent,Notes
-LITHIUM,1,FS-NA,XS-EU,North America,Europe,LITHIUM flow from FS-NA (North America) to XS-EU (Europe).
-LITHIUM,2,XS-EU,CT-AS,Europe,Asia,LITHIUM flow from XS-EU (Europe) to CT-AS (Asia).
-LITHIUM,3,CT-AS,FS-OC,Asia,Oceania,LITHIUM flow from CT-AS (Asia) to FS-OC (Oceania).
-LITHIUM,4,FS-OC,XS-AF,Oceania,Africa,LITHIUM flow from FS-OC (Oceania) to XS-AF (Africa).
-LITHIUM,5,XS-AF,CT-SA,Africa,South America,LITHIUM flow from XS-AF (Africa) to CT-SA (South America).
-LITHIUM,6,CT-SA,FS-NA,South America,North America,LITHIUM flow from CT-SA (South America) to FS-NA (North America).
