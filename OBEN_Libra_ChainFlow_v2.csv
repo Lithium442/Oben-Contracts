@@ -1,0 +1,7 @@
+Chain,Step,FromNode,ToNode,FromContinent,ToContinent,Notes
+LIBRA,1,CT-NA,FS-EU,North America,Europe,LIBRA flow from CT-NA (North America) to FS-EU (Europe).
+LIBRA,2,FS-EU,XS-AS,Europe,Asia,LIBRA flow from FS-EU (Europe) to XS-AS (Asia).
+LIBRA,3,XS-AS,CT-OC,Asia,Oceania,LIBRA flow from XS-AS (Asia) to CT-OC (Oceania).
+LIBRA,4,CT-OC,FS-AF,Oceania,Africa,LIBRA flow from CT-OC (Oceania) to FS-AF (Africa).
+LIBRA,5,FS-AF,XS-SA,Africa,South America,LIBRA flow from FS-AF (Africa) to XS-SA (South America).
+LIBRA,6,XS-SA,CT-NA,South America,North America,LIBRA flow from XS-SA (South America) to CT-NA (North America).
