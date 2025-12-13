@@ -1,0 +1,4 @@
+Identifier,Tag: Name,Service,Type,Region,Tag: Continent,Tag: Environment,Tag: Equator,Tag: Hemisphere,Tag: LatitudeBand,Tag: Layer,Tag: Libra-LocalRole,Tag: Lithium-LocalRole,Tag: Orion-LocalRole,Tag: PoleRole,Tag: Rails,Tag: Role,Tags,ARN
+i-0fa3ce68895636d62,AS-FORM,EC2,Instance,ap-south-1,Asia,Production,(not tagged),N,Arctic/Tropic-N,L1,Entry-AS,Exit-AS,None,None,"Lithium,Libra",Formation,12,arn:aws:ec2:ap-south-1:042655076638:instance/i-0fa3ce68895636d62
+i-0791844b607bb7f7f,AS-CROWN,EC2,Instance,ap-south-1,(not tagged),Production,Asia,EQ,Equator,L3,None,Entry-AS,Entry-AS,Neutral,"Lithium,Orion",Crown,12,arn:aws:ec2:ap-south-1:042655076638:instance/i-0791844b607bb7f7f
+i-07c7eb5f60424a170,AS-EXP,EC2,Instance,ap-south-1,Asia,Production,(not tagged),S,Tropic-S,L2,Exit-AS,None,Exit-AS,None,"Libra,Orion ",Expansion,12,arn:aws:ec2:ap-south-1:042655076638:instance/i-07c7eb5f60424a170
