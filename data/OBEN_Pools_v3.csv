@@ -1,0 +1,7 @@
+Token,PoolCode,Pair,QuoteAsset,TreasuryLaunchShare,PriceRefAsset,MidPrice,MinPrice,MaxPrice,UniswapFeeTier,Notes
+ORION,O1,ORION/USDC,USDC,0.70,ETH,0.10,0.07,0.13,0.003,"Primary governance pool. USDC quote. Target ORION price band expressed vs ETH; convert to USDC at launch using ETH/USD."
+ORION,O2,ORION/WETH,WETH,0.30,ETH,0.10,0.07,0.13,0.003,"Secondary governance pool. WETH quote. Same band as O1."
+LITHIUM,L1,LITHIUM/WETH,WETH,0.70,ETH,0.03,0.02,0.06,0.003,"Primary enterprise pool. WETH quote."
+LITHIUM,L2,LITHIUM/USDC,USDC,0.30,ETH,0.03,0.02,0.06,0.003,"Secondary enterprise pool. USDC quote; convert ETH band to USDC at launch."
+LIBRA,B1,LIBRA/WETH,WETH,0.50,ETH,0.01,0.001,0.09,0.003,"Retail/user pool. WETH quote."
+LIBRA,B2,LIBRA/USDC,USDC,0.50,ETH,0.01,0.001,0.09,0.003,"Retail/user pool. USDC quote; convert ETH band to USDC at launch."
