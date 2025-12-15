@@ -1,0 +1,9 @@
+Token,Symbol,PoolId,PairBase,PairQuote,QuoteType,InitialTokenLiquidity,InitialQuoteLiquidityPct,PoolRoleTier,Notes
+OBEN Libra Token,LIBRA,LIBRA_POOL_1,LIBRA,WETH,ETH,500000,50,Public Rail Tier-1 Base,"LIBRA/WETH main pool, 50% of initial 1M LIBRA liquidity"
+OBEN Libra Token,LIBRA,LIBRA_POOL_2,LIBRA,USDC,USD,500000,50,Public Rail Tier-1 Base,"LIBRA/USDC mirror pool, 50% of initial 1M LIBRA liquidity"
+
+OBEN Lithium Token,LITH,LITH_POOL_1,LITH,WETH,ETH,700000,70,Infra Rail Tier-1 Base,"Primary LITH/WETH pool, 70% of initial 1M LITH"
+OBEN Lithium Token,LITH,LITH_POOL_2,LITH,USDC,USD,300000,30,Infra Rail Tier-1 Base,"Secondary LITH/USDC stabilizer pool, 30% of initial 1M LITH"
+
+OBEN Orion Token,ORION,ORION_POOL_1,ORION,USDC,USD,700000,70,Gov Rail Tier-1 Base,"Primary ORION/USDC governance pool, 70% of initial 1M ORION"
+OBEN Orion Token,ORION,ORION_POOL_2,ORION,WETH,ETH,300000,30,Gov Rail Tier-1 Base,"Secondary ORION/WETH market link pool, 30% of initial 1M ORION"
