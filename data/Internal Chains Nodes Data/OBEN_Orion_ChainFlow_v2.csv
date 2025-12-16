@@ -1,0 +1,7 @@
+Chain,Step,FromNode,ToNode,FromContinent,ToContinent,Notes
+ORION,1,XS-NA,CT-EU,North America,Europe,ORION flow from XS-NA (North America) to CT-EU (Europe).
+ORION,2,CT-EU,FS-AS,Europe,Asia,ORION flow from CT-EU (Europe) to FS-AS (Asia).
+ORION,3,FS-AS,XS-OC,Asia,Oceania,ORION flow from FS-AS (Asia) to XS-OC (Oceania).
+ORION,4,XS-OC,CT-AF,Oceania,Africa,ORION flow from XS-OC (Oceania) to CT-AF (Africa).
+ORION,5,CT-AF,FS-SA,Africa,South America,ORION flow from CT-AF (Africa) to FS-SA (South America).
+ORION,6,FS-SA,XS-NA,South America,North America,ORION flow from FS-SA (South America) to XS-NA (North America).
